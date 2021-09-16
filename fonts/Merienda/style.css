@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Merienda';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/melan/Documents/2021-2/biodise%C3%B1o/fonts/Merienda/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Merienda';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/melan/Documents/2021-2/biodise%C3%B1o/fonts/Merienda/regular.ttf') format('truetype');
+}
