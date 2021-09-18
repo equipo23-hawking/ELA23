@@ -4949,26 +4949,6 @@ a {
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-sILjyt2NqY {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sILjyt2NqY .row {
-  flex-direction: row-reverse;
-}
-.cid-sILjyt2NqY .video-wrapper iframe {
-  width: 100%;
-}
-.cid-sILjyt2NqY .mbr-section-title,
-.cid-sILjyt2NqY .mbr-description {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-sILjyt2NqY .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-sIFosUhzgo {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -5970,19 +5950,18 @@ a {
   height: 2px;
   margin: 0 auto;
 }
-.cid-sIFWY2r8NZ {
+.cid-sJpcF2u8hx {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
-@media (max-width: 991px) {
-  .cid-sIFWY2r8NZ .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sIFWY2r8NZ .row {
-  flex-direction: row-reverse;
-}
-.cid-sIFWY2r8NZ img {
+.cid-sJpcF2u8hx .video-wrapper iframe {
   width: 100%;
+}
+.cid-sJpcF2u8hx .mbr-section-title,
+.cid-sJpcF2u8hx .mbr-section-subtitle,
+.cid-sJpcF2u8hx .mbr-text {
+  text-align: center;
 }
 .cid-sIFWjt9yml {
   padding-top: 3rem;
@@ -6403,19 +6382,18 @@ a {
   height: 2px;
   margin: 0 auto;
 }
-.cid-sILsmOTlyZ {
+.cid-sJpeh44Dpl {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
-@media (max-width: 991px) {
-  .cid-sILsmOTlyZ .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sILsmOTlyZ .row {
-  flex-direction: row-reverse;
-}
-.cid-sILsmOTlyZ img {
+.cid-sJpeh44Dpl .video-wrapper iframe {
   width: 100%;
+}
+.cid-sJpeh44Dpl .mbr-section-title,
+.cid-sJpeh44Dpl .mbr-section-subtitle,
+.cid-sJpeh44Dpl .mbr-text {
+  text-align: center;
 }
 .cid-sILsmP2IUb {
   padding-top: 3rem;
@@ -8960,6 +8938,28 @@ a {
   align: center;
   height: 2px;
   margin: 0 auto;
+}
+.cid-sJpbuEU6VV {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/textura-papel-viejo-fondo-papel-vintage-vista-superior-88281-4010-626x417.jpg");
+}
+.cid-sJpbuEU6VV .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #1e9ccd;
+  margin-bottom: 2rem;
+}
+.cid-sJpbuEU6VV .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #fff0b0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
 }
 .cid-sJ9YBdBlyo {
   padding-top: 3rem;
