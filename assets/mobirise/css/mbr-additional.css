@@ -10098,6 +10098,36 @@ a {
 .cid-sJZLNxU2dD .mbr-text {
   color: #ffffff;
 }
+.cid-sJZNxbr7jF {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sJZNxbr7jF .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #1e9ccd;
+  margin-left: 1rem;
+}
+.cid-sJZNxbr7jF .panel-group {
+  border: none;
+}
+.cid-sJZNxbr7jF .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sJZNxbr7jF .panel-body,
+.cid-sJZNxbr7jF .card-header {
+  padding: 1rem 0;
+}
+.cid-sJZNxbr7jF .panel-title-edit {
+  color: #000000;
+}
+.cid-sJZNxbr7jF .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
 .cid-sJZLsKDbL1 {
   padding-top: 3rem;
   padding-bottom: 3rem;
