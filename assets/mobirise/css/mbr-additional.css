@@ -10651,6 +10651,22 @@ a {
     padding: 2rem;
   }
 }
+.cid-sLjCelaqpk {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sLjCelaqpk .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sLjCelaqpk .row {
+  flex-direction: row-reverse;
+}
+.cid-sLjCelaqpk img {
+  width: 100%;
+}
 .cid-sKE6E1n83i {
   padding-top: 0rem;
   padding-bottom: 0rem;
