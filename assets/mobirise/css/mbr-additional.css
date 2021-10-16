@@ -11287,18 +11287,32 @@ a {
 .cid-sLe1Yc2vzH .mbr-text {
   text-align: center;
 }
-.cid-sLemLkCbAO {
-  padding-top: 2rem;
+.cid-sLYmyJUxba {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-sLYmyJUxba .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sLYmkB1mNM {
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-sLemLkCbAO .video-wrapper iframe {
-  width: 100%;
+@media (max-width: 991px) {
+  .cid-sLYmkB1mNM .image-wrapper {
+    margin-bottom: 1rem;
+  }
 }
-.cid-sLemLkCbAO .mbr-section-title,
-.cid-sLemLkCbAO .mbr-section-subtitle,
-.cid-sLemLkCbAO .mbr-text {
-  text-align: center;
+.cid-sLYmkB1mNM .row {
+  flex-direction: row-reverse;
+}
+.cid-sLYmkB1mNM img {
+  width: 100%;
 }
 .cid-sLHyueN0VW {
   padding-top: 1rem;
@@ -11767,36 +11781,52 @@ a {
   padding-bottom: 0rem;
   background-color: #ffe161;
 }
-.cid-sLY51OQy3m {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-sLYhqjOBIO {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
-  .cid-sLY51OQy3m .image-wrapper {
+  .cid-sLYhqjOBIO .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-sLY51OQy3m .row {
+.cid-sLYhqjOBIO .row {
   flex-direction: row-reverse;
 }
-.cid-sLY51OQy3m img {
+.cid-sLYhqjOBIO img {
   width: 100%;
 }
-.cid-sLY6bh6nLB {
+.cid-sLYicWAgTQ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sLYicWAgTQ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sLYicWAgTQ .row {
+  flex-direction: row-reverse;
+}
+.cid-sLYicWAgTQ img {
+  width: 100%;
+}
+.cid-sLYivp7JXA {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
-  .cid-sLY6bh6nLB .image-wrapper {
+  .cid-sLYivp7JXA .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-sLY6bh6nLB .row {
+.cid-sLYivp7JXA .row {
   flex-direction: row-reverse;
 }
-.cid-sLY6bh6nLB img {
+.cid-sLYivp7JXA img {
   width: 100%;
 }
 .cid-sLX4CXCJlJ {
