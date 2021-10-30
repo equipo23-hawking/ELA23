@@ -12295,6 +12295,20 @@ a {
 .cid-sNhbOuMZdc img {
   width: 100%;
 }
+.cid-sNhJXrop36 {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sNhJXrop36 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sNhJXrop36 .row {
+  flex-direction: row-reverse;
+}
+.cid-sNhJXrop36 img {
+  width: 100%;
+}
 .cid-sNh5cJCrjW {
   padding-top: 3rem;
   padding-bottom: 3rem;
