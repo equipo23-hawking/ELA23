@@ -13022,6 +13022,36 @@ a {
 .cid-sNVMRkjaA0 img {
   width: 100%;
 }
+.cid-sNWRL6K9yM {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sNWRL6K9yM .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #1e9ccd;
+  margin-left: 1rem;
+}
+.cid-sNWRL6K9yM .panel-group {
+  border: none;
+}
+.cid-sNWRL6K9yM .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sNWRL6K9yM .panel-body,
+.cid-sNWRL6K9yM .card-header {
+  padding: 1rem 0;
+}
+.cid-sNWRL6K9yM .panel-title-edit {
+  color: #000000;
+}
+.cid-sNWRL6K9yM .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
 .cid-sNVM0vQ6wc {
   padding-top: 3rem;
   padding-bottom: 3rem;
