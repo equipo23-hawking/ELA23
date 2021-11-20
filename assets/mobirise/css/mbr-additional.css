@@ -14246,6 +14246,22 @@ a {
 .cid-sPhbZ05Er6 img {
   width: 100%;
 }
+.cid-sPhfQjdYwc {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sPhfQjdYwc .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sPhfQjdYwc .row {
+  flex-direction: row-reverse;
+}
+.cid-sPhfQjdYwc img {
+  width: 100%;
+}
 .cid-sPh0l6wIft {
   padding-top: 3rem;
   padding-bottom: 3rem;
