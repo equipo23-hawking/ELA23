@@ -2632,21 +2632,27 @@ a {
   align-items: center;
   margin-bottom: 2rem;
 }
-.cid-sLBAuHeLEs {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+.cid-sQrGHwxTUl {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/mbr-1920x1078.jpg");
 }
-@media (max-width: 991px) {
-  .cid-sLBAuHeLEs .image-wrapper {
-    margin-bottom: 1rem;
-  }
+.cid-sQrGHwxTUl .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #1e9ccd;
+  margin-bottom: 2rem;
 }
-.cid-sLBAuHeLEs .row {
-  flex-direction: row-reverse;
-}
-.cid-sLBAuHeLEs img {
-  width: 100%;
+.cid-sQrGHwxTUl .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #fff0b0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
 }
 .cid-sHrrRrKMHS {
   padding-top: 3rem;
@@ -7514,6 +7520,70 @@ a {
   flex-direction: row-reverse;
 }
 .cid-sJXNYfFh4k img {
+  width: 100%;
+}
+.cid-sQrzAxkIrf {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sQrzAxkIrf .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sQrzAxkIrf .row {
+  flex-direction: row-reverse;
+}
+.cid-sQrzAxkIrf img {
+  width: 100%;
+}
+.cid-sQrCDriA37 {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sQrCDriA37 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sQrCDriA37 .row {
+  flex-direction: row-reverse;
+}
+.cid-sQrCDriA37 img {
+  width: 100%;
+}
+.cid-sQrDcBZRiX {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sQrDcBZRiX .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sQrDcBZRiX .row {
+  flex-direction: row-reverse;
+}
+.cid-sQrDcBZRiX img {
+  width: 100%;
+}
+.cid-sQrDFedY41 {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sQrDFedY41 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sQrDFedY41 .row {
+  flex-direction: row-reverse;
+}
+.cid-sQrDFedY41 img {
   width: 100%;
 }
 .cid-sJ9YBdBlyo {
